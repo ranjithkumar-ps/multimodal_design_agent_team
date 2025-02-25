@@ -23,10 +23,6 @@ This application leverages multiple specialized AI agents to provide comprehensi
 
 1. **Setup Environment**
    ```bash
-   # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/ai_agent_tutorials/multimodal_design_agent_team
-
    # Create and activate virtual environment (optional)
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -58,7 +54,7 @@ This application leverages multiple specialized AI agents to provide comprehensi
 - **AI Model**: Google Gemini 2.0
 - **Image Processing**: Pillow
 - **Market Research**: DuckDuckGo Search API
-- **Framework**: Phidata for agent orchestration
+- **Framework**: Agno (PhiData) for agent orchestration
 
 ## Tips for Best Results
 
